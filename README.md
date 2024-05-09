@@ -1,4 +1,4 @@
-# Ex06-Redirecting-the-Scene
+# Ex06-Redirect the Scene
 
 ## Aim:
 To Redirecting the scene in the unity engine.
